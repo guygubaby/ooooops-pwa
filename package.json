@@ -1,0 +1,17 @@
+{
+  "name": "pwd-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel ./public/index.html"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.16",
+    "fabric": "^3.4.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
